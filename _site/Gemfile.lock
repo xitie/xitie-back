@@ -67,4 +67,5 @@ PLATFORMS
   ruby
 
 DEPENDENCIES
+  jekyll
   jekyll-slim
